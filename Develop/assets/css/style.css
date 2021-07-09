@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* In our header we set 6 prefered fonts, it will prioritize from Trebuchet MS first and sans-serif last */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*We set our menu buttons to the right of the header */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+/* Hero displays a visual component (image) to our site, in index.html you will find the title attribute in case the image does not display and it will show an alternative text
+*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Created a box that contains the benefits of our services and stay to the right next to the SEO, ORM and SMM boxes */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Set three boxes to contain the information regarding SEO, ORM and SMM */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,6 +162,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/*Displays images for SEO, ORM and SMM */
 
 .search-engine-optimization img {
     max-height: 200px;
