@@ -25,3 +25,7 @@ If there are comments or tips, let me know.
 Screenshot preview:
 
 <img width="1129" alt="Screen" src="https://user-images.githubusercontent.com/86257147/125140655-9efef980-e0d8-11eb-8e02-da660394e3fc.png">
+
+Deployed link:
+
+https://marcotorr.github.io/Code-Refactor-V2/
